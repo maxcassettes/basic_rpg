@@ -1,0 +1,18 @@
+#fightControls {
+            display: none; 
+            margin-top:15px; 
+        }
+        #stats, #enemy {
+            border:2px solid black; 
+            height:100px; 
+            width:300px; 
+            margin-top:25px; 
+        }
+        #stats {
+            float: left; 
+            margin-left:125px; 
+        }
+        #enemy {
+            float:right;
+            margin-right:125px;
+        }
